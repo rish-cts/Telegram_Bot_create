@@ -127,7 +127,8 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return ConversationHandler.END
 
 def main():
-    TOKEN = "7548827092:AAHJODHJI--0Zv4kx8H0fKtPOL1LUhIVIik"
+    TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+    # TOKEN = "abcdefghijklmnopqrstuvwxyz"  # Replace with your actual bot token or set as environment variable
     app = ApplicationBuilder().token(TOKEN).build()
 
     conv_handler = ConversationHandler(
