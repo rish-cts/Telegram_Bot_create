@@ -40,9 +40,11 @@ README.md        # Project documentation
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Telegram_bot.git
-cd Telegram_bot
+git clone https://github.com/your-username/Telegram_Bot_create.git
+cd Telegram_Bot_create
 ```
+
+Replace `your-username` with your actual GitHub username.
 
 ### 2. Install Dependencies
 
