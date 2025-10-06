@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What is the primary goal of NASA’s Interstellar Mapping and Acceleration Probe (IMAP) mission?",
+    "options": [
+      "To study black holes in deep space",
+      "To map the heliosphere’s boundary, trace energetic particles, and improve space weather forecasting",
+      "To explore the surface of Mars",
+      "To detect exoplanets beyond the solar system"
+    ],
+    "correct_answers": ["To map the heliosphere’s boundary, trace energetic particles, and improve space weather forecasting"],
+    "explanation": "IMAP aims to study the outer boundary of the heliosphere, understand particle acceleration, and improve predictions of space weather affecting Earth."
+  },
+  {
+    "question": "Which term refers to the outermost boundary of the heliosphere where the solar wind is stopped by the interstellar medium?",
+    "options": [
+      "Termination shock",
+      "Stagnation region",
+      "Heliopause",
+      "Magnetopause"
+    ],
+    "correct_answers": ["Heliopause"],
+    "explanation": "The heliopause marks the boundary where the solar wind is halted by the pressure of the interstellar medium."
+  },
+  {
+    "question": "IMAP will travel to which strategic point in space for its mission?",
+    "options": [
+      "Sun-Earth Lagrange Point 1 (L1)",
+      "Sun-Earth Lagrange Point 2 (L2)",
+      "Earth-Moon Lagrange Point",
+      "Geostationary orbit"
+    ],
+    "correct_answers": ["Sun-Earth Lagrange Point 1 (L1)"],
+    "explanation": "IMAP will be positioned at L1, about 1.6 million km from Earth towards the Sun, to maintain a stable observation point."
+  },
+  {
+    "question": "Which of the following is a key implication of IMAP’s findings?",
+    "options": [
+      "Improved climate modeling on Earth",
+      "Better understanding of habitability by studying cosmic radiation shielding",
+      "Resource extraction on asteroids",
+      "Mapping exoplanet atmospheres"
+    ],
+    "correct_answers": ["Better understanding of habitability by studying cosmic radiation shielding"],
+    "explanation": "IMAP will help understand how the heliosphere protects planets from harmful cosmic rays, crucial for habitability and future human exploration."
+  },
+  {
+    "question": "The Asian Development Bank (ADB) downgraded India’s FY26 growth forecast to 6.5% due to:",
+    "options": [
+      "Weak domestic demand",
+      "Impact of 50% tariffs imposed by the U.S. on Indian imports",
+      "Rising oil prices",
+      "Monsoon deficit"
+    ],
+    "correct_answers": ["Impact of 50% tariffs imposed by the U.S. on Indian imports"],
+    "explanation": "ADB cited U.S. tariffs on Indian imports as the main reason for lowering India’s FY26 growth projection."
+  },
+  {
+    "question": "Where is the headquarters of the Asian Development Bank (ADB) located?",
+    "options": [
+      "Tokyo, Japan",
+      "Beijing, China",
+      "Metro Manila, Philippines",
+      "New Delhi, India"
+    ],
+    "correct_answers": ["Metro Manila, Philippines"],
+    "explanation": "ADB was established in 1966 and is headquartered in Metro Manila, Philippines."
+  },
+  {
+    "question": "The magnitude 6.9 earthquake reported recently occurred off the coast of which country?",
+    "options": [
+      "Japan",
+      "Philippines",
+      "Indonesia",
+      "Chile"
+    ],
+    "correct_answers": ["Philippines"],
+    "explanation": "The earthquake struck off the coast of central Philippines, a region within the seismically active Pacific Ring of Fire."
+  },
+  {
+    "question": "Which tectonic plates are involved in the frequent earthquakes in the Philippines?",
+    "options": [
+      "Pacific Plate and North American Plate",
+      "Philippine Plate and Eurasian Plate",
+      "Nazca Plate and South American Plate",
+      "African Plate and Indian Plate"
+    ],
+    "correct_answers": ["Philippine Plate and Eurasian Plate"],
+    "explanation": "The Philippines sits at the boundary of the Philippine Plate and the Eurasian Plate, causing high seismic activity."
+  },
+  {
+    "question": "India’s total external debt at the end of June 2025 stood at:",
+    "options": [
+      "$747.2 billion",
+      "$500.3 billion",
+      "$912.1 billion",
+      "$650.0 billion"
+    ],
+    "correct_answers": ["$747.2 billion"],
+    "explanation": "India’s external debt rose to $747.2 billion by June 2025, an increase of $11.2 billion from March 2025."
+  },
+  {
+    "question": "Which of the following is a major risk associated with high external debt?",
+    "options": [
+      "Exchange rate fluctuations",
+      "Increase in domestic savings",
+      "Boost in agricultural output",
+      "Improvement in trade surplus"
+    ],
+    "correct_answers": ["Exchange rate fluctuations"],
+    "explanation": "External debt makes a country vulnerable to currency depreciation and higher repayment costs due to exchange rate fluctuations."
+  },
+  {
+    "question": "What was the overall rainfall deviation in India during the Monsoon 2025 season according to IMD?",
+    "options": [
+      "5% more than normal",
+      "8% more than normal",
+      "Normal",
+      "10% less than normal"
+    ],
+    "correct_answers": ["8% more than normal"],
+    "explanation": "IMD reported that India received 8% more rainfall than normal between June 1 and September 30, 2025."
+  },
+  {
+    "question": "Which region of India recorded the highest positive deviation in rainfall during Monsoon 2025?",
+    "options": [
+      "Northwest India",
+      "Central India",
+      "South Peninsula",
+      "Eastern & Northeast India"
+    ],
+    "correct_answers": ["Northwest India"],
+    "explanation": "Northwest India saw a record 27% above-average rainfall, the highest since 2001."
+  },
+  {
+    "question": "What is the leading cause of fatal road accidents in India as per NCRB 2023 report?",
+    "options": [
+      "Poor weather conditions",
+      "Driving under influence",
+      "Speeding",
+      "Animal crossing"
+    ],
+    "correct_answers": ["Speeding"],
+    "explanation": "NCRB 2023 reports that 58.6% of road accident deaths in India were caused by speeding."
+  },
+  {
+    "question": "Which state reported the highest number of farmer suicides in 2023?",
+    "options": [
+      "Karnataka",
+      "Madhya Pradesh",
+      "Andhra Pradesh",
+      "Maharashtra"
+    ],
+    "correct_answers": ["Maharashtra"],
+    "explanation": "Maharashtra accounted for 38.5% of all farmer suicides in India in 2023, the highest among all states."
+  },
+  {
+    "question": "The RoDTEP scheme, recently extended till March 2026, primarily aims to:",
+    "options": [
+      "Subsidize fertilizers for farmers",
+      "Refund embedded taxes and duties on exported products",
+      "Promote foreign direct investment",
+      "Support renewable energy exports"
+    ],
+    "correct_answers": ["Refund embedded taxes and duties on exported products"],
+    "explanation": "RoDTEP ensures that Indian exporters get refunds for taxes/duties not reimbursed through other mechanisms, making exports more competitive."
+  },
+  {
+    "question": "Which fund is the primary source of disaster response financing for state governments in India?",
+    "options": [
+      "Prime Minister’s Relief Fund",
+      "State Disaster Response Fund (SDRF)",
+      "National Calamity Contingency Fund",
+      "Chief Minister’s Relief Fund"
+    ],
+    "correct_answers": ["State Disaster Response Fund (SDRF)"],
+    "explanation": "SDRF is the primary fund available with state governments for disaster response; NDRF supplements it for severe calamities."
+  },
+  {
+    "question": "Which group of workers is discussed under the topic 'Labour of Care' in the context of rural healthcare?",
+    "options": [
+      "Private hospital nurses",
+      "Accredited Social Health Activists (ASHAs) and Anganwadi Workers",
+      "Urban community volunteers",
+      "Medical college interns"
+    ],
+    "correct_answers": ["Accredited Social Health Activists (ASHAs) and Anganwadi Workers"],
+    "explanation": "The article highlights the undervalued and underpaid labour of ASHAs and Anganwadi workers in India’s rural health system."
+  },
+  {
+    "question": "Environmental Surveillance for Disease Outbreaks helps mainly in:",
+    "options": [
+      "Tracking air pollution levels",
+      "Early detection of pathogens in wastewater",
+      "Monitoring ozone layer depletion",
+      "Studying wildlife migration patterns"
+    ],
+    "correct_answers": ["Early detection of pathogens in wastewater"],
+    "explanation": "Environmental surveillance tracks pathogens shed in wastewater, providing early warnings of outbreaks such as polio and COVID-19."
+  },
+  {
+    "question": "Who among the following founded the Indian Statistical Institute (ISI) and the National Sample Survey (NSS)?",
+    "options": [
+      "Mokshagundam Visvesvaraya",
+      "Muthulakshmi Reddy",
+      "Prasanta Chandra Mahalanobis",
+      "Dadabhai Naoroji"
+    ],
+    "correct_answers": ["Prasanta Chandra Mahalanobis"],
+    "explanation": "Mahalanobis founded ISI in 1932 and the NSS in 1950, contributing significantly to India’s economic planning."
+  },
+  {
+    "question": "The Union Public Service Commission (UPSC) was first provided for under which Act?",
+    "options": [
+      "Government of India Act, 1919",
+      "Indian Councils Act, 1909",
+      "Government of India Act, 1935",
+      "Indian Independence Act, 1947"
+    ],
+    "correct_answers": ["Government of India Act, 1919"],
+    "explanation": "The 1919 Act first provided for a Public Service Commission in India, later evolving into the UPSC after the 1950 Constitution."
+  }
+]
