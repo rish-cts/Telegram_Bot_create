@@ -5,7 +5,8 @@ from telegram.ext import (
     ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes, ConversationHandler, MessageHandler, filters
 )
 from collections import defaultdict
-
+from dotenv import load_dotenv
+load_dotenv()
 # Load questions
 with open("questions.json", encoding="utf-8") as f:
     QUESTIONS = json.load(f)
